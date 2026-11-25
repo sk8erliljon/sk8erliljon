@@ -39,17 +39,6 @@ Most of what I build starts as a random idea, conversation, or challenge. I enjo
 
 ---
 
-## 🌟 Featured Projects
-
-Showcase your favourite repositories here.
-
-- 🚀 Project One
-- 🤖 Project Two
-- 🎮 Project Three
-- 🔧 Project Four
-
----
-
 ## 📚 Philosophy
 
 > Start building.
